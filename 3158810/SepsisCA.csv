@@ -1,0 +1,333 @@
+county,score
+Alameda,Not Available
+Humboldt,49
+San Mateo,80
+Placer,42
+Napa,64
+Napa,Not Available
+Amador,94
+Sacramento,75
+Riverside,90
+San Diego,83
+San Diego,52
+San Diego,79
+Humboldt,74
+Butte,55
+Kern,56
+Santa Clara,69
+Butte,72
+Los Angeles,48
+Tehama,87
+Alameda,40
+Imperial,44
+Placer,39
+Riverside,70
+San Francisco,73
+Los Angeles,68
+Tulare,75
+Los Angeles,86
+Fresno,23
+Los Angeles,93
+Stanislaus,45
+Orange,82
+San Mateo,85
+Santa Clara,71
+Contra Costa,75
+Solano,74
+Alameda,61
+San Francisco,60
+San Diego,60
+Los Angeles,81
+Ventura,84
+San Joaquin,72
+San Bernardino,56
+Sonoma,70
+Los Angeles,28
+Fresno,38
+Los Angeles,Not Available
+San Bernardino,81
+San Diego,55
+Solano,60
+Riverside,40
+Los Angeles,82
+Los Angeles,75
+Santa Barbara,80
+Sacramento,63
+Santa Barbara,70
+Los Angeles,68
+San Mateo,71
+San Diego,91
+Los Angeles,83
+San Joaquin,49
+Kings,64
+San Joaquin,53
+Los Angeles,68
+Santa Clara,57
+Los Angeles,63
+Yolo,100
+San Diego,65
+San Bernardino,88
+Marin,61
+Los Angeles,74
+Yuba,74
+Los Angeles,31
+Sonoma,53
+Los Angeles,63
+Los Angeles,67
+Los Angeles,72
+San Bernardino,82
+Monterey,44
+Los Angeles,72
+Nevada,65
+San Francisco,55
+Los Angeles,86
+Ventura,38
+Solano,59
+San Joaquin,63
+Orange,66
+Los Angeles,50
+Sonoma,64
+Stanislaus,82
+Contra Costa,56
+Los Angeles,66
+Fresno,Not Available
+Santa Cruz,46
+Alameda,72
+San Mateo,86
+Los Angeles,62
+San Diego,Not Available
+Alameda,45
+San Diego,71
+Orange,70
+Orange,39
+San Francisco,29
+San Diego,67
+Orange,85
+Los Angeles,61
+San Luis Obispo,81
+San Diego,74
+Los Angeles,72
+Ventura,84
+Los Angeles,23
+Los Angeles,76
+Santa Cruz,80
+Riverside,45
+San Bernardino,83
+Monterey,50
+El Dorado,81
+Kern,Not Available
+Tulare,82
+Los Angeles,51
+San Bernardino,74
+Contra Costa,31
+Los Angeles,62
+San Bernardino,73
+Shasta,76
+Los Angeles,48
+Alameda,59
+San Mateo,60
+Los Angeles,86
+Sonoma,62
+Riverside,47
+Kern,78
+San Bernardino,85
+San Bernardino,44
+Mendocino,52
+Alameda,57
+Santa Clara,80
+Placer,70
+San Joaquin,81
+Kern,48
+Alameda,28
+San Diego,83
+San Bernardino,26
+Riverside,80
+Monterey,69
+Tuolumne,69
+San Joaquin,80
+Imperial,58
+Orange,46
+Los Angeles,76
+Los Angeles,75
+El Dorado,93
+Los Angeles,76
+Santa Barbara,63
+Marin,44
+Solano,70
+Los Angeles,50
+Los Angeles,30
+Los Angeles,0
+Santa Clara,68
+Los Angeles,65
+Riverside,44
+Los Angeles,68
+Ventura,75
+Santa Barbara,54
+San Bernardino,Not Available
+San Francisco,63
+Los Angeles,88
+Sacramento,81
+Del Norte,85
+San Bernardino,Not Available
+Riverside,Not Available
+San Diego,83
+Sacramento,72
+Orange,81
+Los Angeles,44
+Santa Clara,58
+Merced,67
+San Francisco,44
+Kern,78
+San Francisco,70
+Stanislaus,32
+Los Angeles,46
+Los Angeles,62
+Los Angeles,73
+Los Angeles,53
+Alameda,70
+Fresno,30
+Contra Costa,72
+Placer,66
+San Diego,74
+San Luis Obispo,66
+Marin,67
+Alameda,94
+San Diego,76
+Sacramento,88
+San Bernardino,24
+Contra Costa,60
+Orange,86
+Merced,63
+Riverside,38
+Yolo,63
+San Mateo,74
+Orange,Not Available
+Tulare,Not Available
+Ventura,81
+Orange,81
+Stanislaus,61
+Los Angeles,88
+Orange,66
+Madera,Not Available
+Orange,54
+Riverside,40
+Orange,83
+Los Angeles,51
+San Bernardino,100
+Los Angeles,82
+Orange,62
+Sacramento,82
+Los Angeles,50
+Sacramento,65
+Orange,59
+Santa Clara,88
+Kern,31
+Orange,89
+Los Angeles,80
+Los Angeles,48
+San Luis Obispo,60
+San Diego,77
+Los Angeles,34
+Los Angeles,Not Available
+San Francisco,Not Available
+Sacramento,81
+Los Angeles,78
+Orange,82
+Riverside,52
+Riverside,86
+Contra Costa,78
+Sonoma,59
+Los Angeles,55
+Shasta,Not Available
+Riverside,45
+Los Angeles,76
+Fresno,Not Available
+San Bernardino,79
+Fresno,54
+Santa Cruz,Not Available
+Los Angeles,73
+Los Angeles,64
+Kern,47
+Stanislaus,Not Available
+Los Angeles,67
+Los Angeles,78
+Los Angeles,57
+Los Angeles,62
+Los Angeles,82
+Los Angeles,91
+Los Angeles,81
+Orange,54
+Orange,50
+Orange,54
+Orange,75
+Stanislaus,61
+Los Angeles,81
+San Diego,82
+San Bernardino,89
+Contra Costa,83
+Los Angeles,75
+Los Angeles,Not Available
+Shasta,75
+Riverside,90
+Sutter,Not Available
+Solano,76
+Orange,Not Available
+Riverside,42
+Los Angeles,48
+Placer,89
+Riverside,40
+Los Angeles,50
+Alameda,95
+San Bernardino,Not Available
+Los Angeles,72
+Orange,Not Available
+Los Angeles,Not Available
+Colusa,Not Available
+Tulare,15
+Los Angeles,Not Available
+Plumas,Not Available
+Kern,80
+Inyo,Not Available
+Mono,Not Available
+Mariposa,Not Available
+Shasta,Not Available
+Glenn,Not Available
+Los Angeles,Not Available
+Modoc,Not Available
+Humboldt,Not Available
+Mendocino,Not Available
+Butte,Not Available
+San Bernardino,Not Available
+Kern,Not Available
+Trinity,Not Available
+Siskiyou,29
+Lake,Not Available
+Humboldt,Not Available
+Siskiyou,65
+Lassen,Not Available
+Sonoma,Not Available
+San Bernardino,Not Available
+Inyo,37
+Mendocino,Not Available
+Plumas,Not Available
+Plumas,Not Available
+Nevada,93
+Lake,82
+Modoc,Not Available
+Santa Barbara,Not Available
+Calaveras,72
+Kern,Not Available
+Ventura,Not Available
+San Bernardino,Not Available
+Monterey,Not Available
+Santa Clara,Not Available
+Madera,Not Available
+Alameda,Not Available
+Los Angeles,Not Available
+San Diego,Not Available
+Orange,Not Available
+Santa Clara,Not Available
+Orange,Not Available
+Orange,Not Available
+Los Angeles,Not Available
+Sacramento,Not Available
